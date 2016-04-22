@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devitapythagori00iambgoog/devitapythagori00iambgoog_0025.png"; bbox 0 0 2650 4692; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 429 1364 2115 1485">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 429 1364 2115 1485">
+     <span class='ocr_line' id='line_1_1' title="bbox 429 1364 2115 1485; baseline 0.001 -43"><span class='ocrx_word' id='word_1_1' title='bbox 429 1364 1071 1450; x_wconf 69' lang='lat' dir='ltr'><em>’IAMBAIXOT</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1123 1369 1829 1485; x_wconf 44' lang='grc' dir='ltr'><em>ΧᾸΜΚΙΛΕΩΣ,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2108 1381 2115 1392; x_wconf 71' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 165 1567 1265 1664">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 165 1567 1265 1664">
+     <span class='ocr_line' id='line_1_2' title="bbox 165 1567 1265 1664; baseline 0.002 -10"><span class='ocrx_word' id='word_1_4' title='bbox 165 1567 288 1604; x_wconf 72' lang='grc'><em>’“</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 849 1571 862 1586; x_wconf 75' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_6' title='bbox 1014 1606 1265 1664; x_wconf 73' lang='grc' dir='ltr'><em>ΠΕΡΙ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 73 1729 2305 1972">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 73 1729 2305 1972">
+     <span class='ocr_line' id='line_1_3' title="bbox 73 1729 2305 1972; baseline -0.002 -52"><span class='ocrx_word' id='word_1_7' title='bbox 73 1747 464 1972; x_wconf 50' lang='lat' dir='ltr'><em>firm?</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 529 1729 1689 1919; x_wconf 65' lang='grc' dir='ltr'><strong>ΠΥΘΑΓΟΡΙΚΟῩ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1758 1806 2125 1919; x_wconf 86' lang='lat' dir='ltr'>BIOY</span> <span class='ocrx_word' id='word_1_10' title='bbox 2300 1799 2305 1804; x_wconf 88' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 323 2083 1511 2222">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 323 2083 1511 2222">
+     <span class='ocr_line' id='line_1_4' title="bbox 323 2083 1511 2222; baseline -0.001 -76"><span class='ocrx_word' id='word_1_11' title='bbox 323 2175 344 2222; x_wconf 60' lang='lat' dir='ltr'>k</span> <span class='ocrx_word' id='word_1_12' title='bbox 926 2083 1361 2147; x_wconf 81' lang='grc' dir='ltr'><em>ΛΟΓΟΣ.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1504 2090 1511 2098; x_wconf 87' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 275 4164 1771 4270">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 275 4164 1771 4270">
+     <span class='ocr_line' id='line_1_5' title="bbox 275 4164 1771 4270; baseline -0.005 -26"><span class='ocrx_word' id='word_1_14' title='bbox 275 4187 440 4270; x_wconf 71' lang='lat' dir='ltr'><strong>Tpm.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 485 4188 564 4244; x_wconf 88' lang='lat'><em>11.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1405 4219 1409 4224; x_wconf 85' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1520 4233 1526 4238; x_wconf 88' lang='lat'>.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1687 4164 1771 4242; x_wconf 86' lang='lat' dir='ltr'>A</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
